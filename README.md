@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**tduncan8/tduncan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+### <div align="center">I'm Ted, a devops engineer with over 15 years experience.</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Kubernetes  
+- ❓ Ask me about devops,linux and CDN related technologies  
+  
+
+<br/>  
