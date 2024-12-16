@@ -5,11 +5,9 @@
 </div>  
   
 
-### <div align="center">I'm Ted, a devops engineer with over 15 years experience.</div>  
-  
-
+### <div align="center">I'm Ted, a devops engineer with over 15 years of experience.</div>  
 - 🌱 I’m currently learning Kubernetes  
-- ❓ Ask me about devops,linux and CDN related technologies  
+- ❓ Ask me about DevOps,Linux and CDN related technologies  
   
 
 <br/>  
