@@ -39,6 +39,8 @@
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="./assets/grafana.png" alt="Grafana" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="./assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="./assets/gitlab.svg" alt="GitLab" height="50" /></a>
+<a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="./assets/openstack.png" alt="OpenStack" height="50" /></a> 
+<a href="https://www.libvirtd.org/" target="_blank"><img style="margin: 10px" src="./assets/libvirtd.png" alt="OpenStack" height="50" /></a>
 </div>
 
 </td></tr></table>
