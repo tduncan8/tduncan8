@@ -6,12 +6,7 @@
 
 
 
-### <div align="center">I'm Ted, a devops engineer with over 15 years experience.</div>
-- 🌱 I’m currently learning Kubernetes
-- ❓ Ask me about anything related to CDN and streaming related technologies
-<br/>
-
-
+### <div align="center">I'm Ted, a DevOps Engineer with over 15 years of experience.</div>
 
 ## My Skill Set
 <table><tr><td valign="top" width="50%">
